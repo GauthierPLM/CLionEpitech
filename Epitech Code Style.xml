@@ -6,6 +6,42 @@
     <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="4" />
     <option name="INDENT_DIRECTIVE_AS_CODE" value="true" />
     <option name="KEEP_DIRECTIVE_AT_FIRST_COLUMN" value="false" />
+    <option name="NAMESPACES_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="CLASSES_AND_STRUCTS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="ENUMS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="ENUMERATORS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="TYPEDEFS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="_t" />
+    </option>
+    <option name="UNIONS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="METHODS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="FIELDS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="GLOBAL_FUNCTIONS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="GLOBAL_VARIABLES_NAMING_CONVENTION">
+      <value prefix="" style="SCREAMING_SNAKE_CASE" suffix="" />
+    </option>
+    <option name="PARAMETERS_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="LOCAL_VARIABLES_NAMING_CONVENTION">
+      <value prefix="" style="SNAKE_CASE" suffix="" />
+    </option>
   </Objective-C>
   <Objective-C-extensions>
     <extensions>
