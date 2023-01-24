@@ -41,7 +41,7 @@ To generate the standard headers on top of all new C/C++ files, you need to set 
 New files should now be created with the school' standard header. A TODO comment highlighted in yellow in CLion is here
 to remind you to write the file description.
 
-You can also download Epiheader from the marketplace and press Ctrl-h to generate a complete header.
+You can also download [Epiheader](https://plugins.jetbrains.com/plugin/20472-epiheader) from the marketplace and press Ctrl-h to generate a complete header.
 
 ## Bugs and reports
 
